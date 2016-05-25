@@ -1,0 +1,15 @@
+Things to do....
+
+
+Modify the Appointment Page
+Update Barber section with bio, styles, image view
+
+
+SELECT TAGS
+HTML CHARACTERS
+
+JQuery Alerts
+
+when selecting a barber for the additional person if it = same barber then disable and check the same barber checkbox.
+
+skype wrapper
